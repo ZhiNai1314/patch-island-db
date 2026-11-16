@@ -5,7 +5,7 @@
   "announcement": "欢迎使用补丁导航工具！点击任意游戏卡片即可查看【多网盘下载链接】、【提取码/解压密码】以及详细的【分步安装说明】。点击下载按钮时会自动为您复制提取码！",
   "remoteSyncUrl": "https://fastly.jsdelivr.net/gh/ZhiNai1314/patch-island-db@main/patches.json",
   "lastUpdated": "2026-11-16",
-  "revision": 1794799442999,
+  "revision": 1794800407165,
   "categories": [
     {
       "id": "steam-patch",
@@ -29,45 +29,6 @@
     }
   ],
   "games": [
-    {
-      "id": "test-cloud-sync-patch",
-      "titleCn": "测试",
-      "titleOriginal": "云端推送同步功能测试条目",
-      "aliases": [
-        "测试",
-        "test",
-        "ceshi"
-      ],
-      "developer": "补丁岛测试项",
-      "staff": "功能验收临时条目（测完可删除）",
-      "releaseDate": "2026-11-16",
-      "rating": "5.0/5",
-      "platform": "同步测试",
-      "engine": "测试",
-      "categoryIds": [
-        "steam-patch"
-      ],
-      "tags": [
-        "云端测试"
-      ],
-      "coverUrl": "",
-      "screenshots": [],
-      "description": "用于测试云端推送更新功能的临时测试条目。如果你在客户端里看到了本卡片，说明从 GitHub 云端同步最新补丁列表已成功生效！测试完成后可在后台删除此条目。",
-      "isFavorite": false,
-      "patches": [
-        {
-          "id": "test-patch-item-1",
-          "name": "测试补丁 (云端推送验收)",
-          "patchType": "其他补丁",
-          "version": "v1.0.0-test",
-          "size": "测试条目",
-          "updatedAt": "2026-11-16",
-          "installTemplate": "custom",
-          "customInstallNotes": "此为云端同步推送验收条目，无实际下载文件；确认客户端能自动拉取并显示此条目后即可删除。",
-          "links": []
-        }
-      ]
-    },
     {
       "id": "game-lunar-mirror",
       "titleCn": "月之镜",
@@ -1554,7 +1515,7 @@
           "updatedAt": "2026-06-04",
           "installTemplate": "save_replace",
           "targetSubfolder": "C:\\Users\\你的用户名\\Documents\\ωstar\\美少女万華鏡 -罪と罰の少女-\\SaveData\\ （便携版在游戏根目录 SaveData\\）",
-          "targetFilesHint": "打开解压出的【biman4-101_seiya】文件夹，复制里面的 SystemData.dat 存档文件",
+          "targetFilesHint": "���开解压出的【biman4-101_seiya】文件夹，复制里面的 SystemData.dat 存档文件",
           "customInstallNotes": "1. QLiE 引擎真实存档位置：默认位于系统【我的文档】下的 C:\\Users\\你的用户名\\Documents\\ωstar\\美少女万華鏡 -罪と罰の少女-\\SaveData\\（部分硬盘免安装版直接位于游戏根目录下的 SaveData 文件夹）。\n2. 解压后请点开【biman4-101_seiya】外层文件夹，将其内部的【SystemData.dat】复制到上述 SaveData 文件夹中覆盖同名文件。",
           "links": [
             {

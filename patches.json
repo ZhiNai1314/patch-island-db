@@ -3,9 +3,9 @@
   "siteSubtitle": "Galgame 补丁导航",
   "avatarUrl": "",
   "announcement": "欢迎使用补丁导航工具！点击任意游戏卡片即可查看【多网盘下载链接】、【提取码/解压密码】以及详细的【分步安装说明】。点击下载按钮时会自动为您复制提取码！",
-  "remoteSyncUrl": "https://cdn.jsdelivr.net/gh/ZhiNai1314/patch-island-db@main/patches.json",
+  "remoteSyncUrl": "https://fastly.jsdelivr.net/gh/ZhiNai1314/patch-island-db@main/patches.json",
   "lastUpdated": "2026-11-16",
-  "revision": 1794793882662,
+  "revision": 1794798250472,
   "categories": [
     {
       "id": "steam-patch",
@@ -3414,7 +3414,7 @@
           "unzipPassword": "",
           "installTemplate": "root_overwrite",
           "targetFilesHint": "解压出的全部补丁文件",
-          "customInstallNotes": "Palette（ぱれっと） - ましろ色シンフォニー -Love is pure white- Remake for FHD 中文化补丁\n\n由 HIllya51个人移植 开坑于 23-06-23, 完成于 23-08-23\n\n**本补丁由 [VN视觉小说汉化补丁遗产归档](https://www.moyu.moe/user/9147/resource) 归档**\n\nPaletteぱれっと20230623ましろ色シンフォニー-Loveispurewhite-RemakeforFHDv1552WindowsHIllya51个人移植20230823CHS.rar\n",
+          "customInstallNotes": "Palette（ぱれっと） - ましろ色シ��フォニー -Love is pure white- Remake for FHD 中文化补丁\n\n由 HIllya51个人移植 开坑于 23-06-23, 完成于 23-08-23\n\n**本补丁由 [VN视觉小说汉化补丁遗产归档](https://www.moyu.moe/user/9147/resource) 归档**\n\nPaletteぱれっと20230623ましろ色シンフォニー-Loveispurewhite-RemakeforFHDv1552WindowsHIllya51个人移植20230823CHS.rar\n",
           "links": [
             {
               "id": "link-user-mashiro-moyu-6567",
